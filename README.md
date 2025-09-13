@@ -3,7 +3,7 @@
 Welcome to my personal portfolio website!  
 This is a one-page portfolio built using **HTML + CSS** with a **glassmorphism design**, showcasing my projects, resume, and contact information.  
 
-🔗 **Live Site:** [https://yourusername.github.io/portfolio](https://yourusername.github.io/portfolio)
+🔗 **Live Site:** [https://amruthaduvvuri.github.io/portfolio](https://amruthaduvvuri.github.io/portfolio)
 
 ---
 
